@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "pnd-app",
+    "slug": "pnd-app",
+    "version": "1.0.0",
+
+    "userInterfaceStyle": "light",
+
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
